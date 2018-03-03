@@ -2,7 +2,7 @@
 
 ![Business Card Holder](/img/P1000544-2.jpg)
 #### Concrete Business Card Holder by @clomads
-[BUY](http://amzn.to/2F9KP4S) / SOURCE (Coming Soon)
+<a class="button" target="_blank" href="http://amzn.to/2F9KP4S">BUY</a> / <a class="button" target="_blank" href="">SOURCE COMING SOON</a>
 
 Our fearless leader, Chloe Madison has designed a beautiful concrete business card holder with a powerful neodymium magnet and steel ball. The ball and magnet keep several business cards in place, yet allow for cards to be pulled out one at a time. The source material is the original 3D Model of the design which was 3D Printed and molded for concrete forming.
 
