@@ -1,8 +1,8 @@
 ## Current Products
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![Business Card Holder](http://vdbxio.github.io/img/P1000544-2.jpg)
 ### Business Card Holder
 
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![CSR8635 Breakout](http://vdbxio.github.io/img/P1010241-3.jpg)
 ### CSR8635 Breakout
