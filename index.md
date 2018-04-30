@@ -1,5 +1,12 @@
 # Current Products
 
+![Business Card Holder](/img/P1010574-2.jpg)
+#### USB-BD v1.0
+<a class="button" target="_blank" href="https://amzn.to/2jew8zY">BUY</a><a href="https://github.com/vdbxio/USB-BD" class="button" target="_blank">SOURCE</a>
+
+The USB-BD by Voidbox Industries is a unique power solution for breadboard prototyping & other electronics projects. It provides 5V power from Micro-USB, features a switch for easy disconnections, and includes a JST 2.0 header & lead for the data terminals. Additionally there are two solder jumpers: one for bypassing the switch and one to ground the ID pin for OTG connections. The Micro-USB port is soldered by us in California from imported components using a lead-free process. Included in the pack is 5x USB-BD PCBs with Micro USB, 5x of 5.8mm Micro Latching Switch, 5x JST 2.0 Header, 5x JST 2.0 Lead, and 10x 1x2 pin headers for you to solder yourself.
+
+
 ![Business Card Holder](/img/P1000544-2.jpg)
 #### Concrete Business Card Holder by @clomads
 <a class="button" target="_blank" href="http://amzn.to/2F9KP4S">BUY</a><a href="https://github.com/vdbxio/clomads-card-holder/" class="button" target="_blank">SOURCE</a>
