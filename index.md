@@ -1,4 +1,13 @@
 # Current Products
+![Ultra Low-Profile USB 2.0 Header For Motherboards](/img/P1010574-2.jpg)
+#### Ultra Low-Profile USB 2.0 Header
+<a class="button" target="_blank" href="https://amzn.to/2LSu0Kv">BUY</a><a href="https://easyeda.com/clomads/usb-header-for-motherboard" class="button" target="_blank">SOURCE</a>
+
+A USB header for PC motherboards designed to be as minimal as possible. It may interfere with components on some motherboards. Its intended use is for keeping small flash-drives, wireless controllers, or USB license keys inside a computer enclosure.
+
+It can also be a powerful tool for computer techs who can keep two USB tools together such as a diagnostics OS on flash drive alongside a wireless keyboard/mouse receiver.
+
+My personal use case is in a custom built super slim NAS enclosure that runs UnRAID. My OS is on a tiny flash drive and the second slot holds a 2.4ghz receiver for a thumb keyboard/trackpad thing. All current offerings I could find were too tall for my needs or were a wired assembly, this is much cleaner.
 
 ![Business Card Holder](/img/P1010574-2.jpg)
 #### USB-BD v1.0
