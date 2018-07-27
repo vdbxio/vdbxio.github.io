@@ -1,5 +1,21 @@
 # Current Products
-
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '634411383597713');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=634411383597713&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
 
 <script src="https://www.trycelery.com/js/celery.js"></script>
 ![Aura v1.0 Prototype 001 and iPhone X](/img/aura-v1-1500-50.jpg)
@@ -8,6 +24,8 @@
 <button class="button preorder" data-celery="5b2c2ef233393f1400fa85ca">
   Pre-Order Now - $59
 </button>
+
+
 
 
 Aura by Voidbox Industries is a Qi compatible wireless charging pad made from concrete, hardwood veneer, and neoprene. Concrete creates a unique finish with each pour. The laser etched hardwood top creates a scratch free surface for your phone to sit on and the neoprene base provides a slightly tacky cusion to keep itself from sliding all over your desk.
