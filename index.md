@@ -17,13 +17,31 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
-<script src="https://www.trycelery.com/js/celery.js"></script>
+
 ![Aura v1.0 Prototype 001 and iPhone X](/img/aura-v1-1500-50.jpg)
 ## Aura v1.0 - Concrete Wireless Charging
-### $20 off retail of $79 - Delivers in September 2018
-<button class="button preorder" data-celery="5b2c2ef233393f1400fa85ca">
-  Pre-Order Now - $59
-</button>
+### Crowdfunding campaign coming soon
+The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neoprene. It has the Micro-USB port and status LED embeded into the concrete base during the molding process. We have a working prototype proof of concept and are finalizing some sourcing of materials and finalizing our parts list. Our crowd sourcing campaign is expected to launch at the end of October 2018, offing you a significant discount on the expected final retail price.
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://vdbx.us19.list-manage.com/subscribe/post?u=f5eaeae7c3bc18617989bbbcd&amp;id=abf6f08941" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Get Updates on Crowdfunding</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_f5eaeae7c3bc18617989bbbcd_abf6f08941" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 
 
