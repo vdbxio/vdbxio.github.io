@@ -21,7 +21,7 @@
 ![Aura v1.0 Prototype 001 and iPhone X](/img/aura-v1-1500-50.jpg)
 ## Aura v1.0 - Concrete Wireless Charging
 ### Crowdfunding campaign coming soon
-The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neoprene. It has the Micro-USB port and status LED embeded into the concrete base during the molding process. We have a working prototype proof of concept and are finalizing some sourcing of materials and finalizing our parts list. Our crowd sourcing campaign is expected to launch at the end of October 2018, offing you a significant discount on the expected final retail price.
+The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neoprene. It has the Micro-USB port and status LED embeded into the concrete base during the molding process. We have a working prototype proof of concept and are finalizing some sourcing of materials and finalizing our parts list. Sign up to get notified when we're ready to start our crowdfunding campaign in mid to late 2019.
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
