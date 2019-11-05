@@ -17,11 +17,21 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+![Hactus with box](/img/hactus-with-box.jpg)
+## Hactus v1.0
+<a class="button" target="_blank" href="https://amzn.to/36DCyjR">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
+
+The Hactus is a unique take on the boring prototyping boards commonly found in the DIY electronics scene. The Hactus embodies the visual of a succulent cactus by way of it's interlocking green perfboards that fit snugly inside the included concrete flower pot. Each of the two boards has 783 ENIG Gold Plated solder points providing you with endless possibilities for prototyping your inventions. Or just keep it as is and hold some pens or pencils in its 4 sections.
+
+Due to the handmade nature of this item, variations between items are to be expected.
+
 
 ![Aura v1.0 Prototype 001 and iPhone X](/img/aura-v1-1500-50.jpg)
 ## Aura v1.0 - Concrete Wireless Charging
 ### Crowdfunding campaign coming soon
-The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neoprene. It has the Micro-USB port and status LED embeded into the concrete base during the molding process. We have a working prototype proof of concept and are finalizing some sourcing of materials and finalizing our parts list. Sign up to get notified when we're ready to start our crowdfunding campaign in mid to late 2019.
+The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neoprene. It has the USB port and status LED embeded into the concrete base during the molding process. We have a working prototype proof of concept and are finalizing some sourcing of materials and finalizing our parts list. Due major changes within Voidbox throughout 2019, the Aura Qi charger has been indefinitely placed on hold as we release other products and get some existing products back into production. We've decided to make some changes and upgrades to the Aura before going into crowdfunding on Indiegogo. We hope to restart R&D by Spring of 2020.
+
+Sign up to get notified when we're ready to start our crowdfunding campaign and follow us on instagram for updates as we get back into R&D mode.
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -45,12 +55,9 @@ The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neopren
 
 <br><br>
 
-
-Aura by Voidbox Industries is a Qi compatible wireless charging pad made from concrete, hardwood veneer, and neoprene. Concrete creates a unique finish with each pour. The laser etched hardwood top creates a scratch free surface for your phone to sit on and the neoprene base provides a slightly tacky cusion to keep itself from sliding all over your desk.
-
-Keep an eye on our Instagram and Facebook page for updates. 
-
 Picture is of an early prototype, final product may look slightly different - For example: final product is expected to have a status LED in the front recess.
+
+
 
 
 ![Ultra Low-Profile USB 2.0 Header For Motherboards](/img/P1030309.jpg)
@@ -70,7 +77,7 @@ My personal use case is in a custom built super slim NAS enclosure that runs UnR
 The USB-BD by Voidbox Industries is a unique power solution for breadboard prototyping & other electronics projects. It provides 5V power from Micro-USB, features a switch for easy disconnections, and includes a JST 2.0 header & lead for the data terminals. Additionally there are two solder jumpers: one for bypassing the switch and one to ground the ID pin for OTG connections. The Micro-USB port is soldered by us in California from imported components using a lead-free process. Included in the pack is 5x USB-BD PCBs with Micro USB, 5x of 5.8mm Micro Latching Switch, 5x JST 2.0 Header, 5x JST 2.0 Lead, and 10x 1x2 pin headers for you to solder yourself.
 
 
-![Business Card Holder](/img/P1000544-2.jpg)
+![Business Card Holder](/img/2020-card-holder-main3.jpg)
 #### Concrete Business Card Holder by @clomads
 <a class="button" target="_blank" href="http://amzn.to/2F9KP4S">BUY ON AMAZON</a><a href="https://github.com/vdbxio/clomads-card-holder/" class="button" target="_blank">SOURCE</a>
 
@@ -82,3 +89,6 @@ Our fearless leader, Chloe Madison has designed a beautiful concrete business ca
 <a class="button" target="_blank" href="https://www.tindie.com/products/11431/">BUY ON TINDIE</a><a class="button" target="_blank" href="https://easyeda.com/clomads/CSR8635_Breakout-72f90a02e918496186b20209678dd9dc">SOURCE</a>
 
 A future product of ours is a Bluetooth headset and the CSR8635 modules are inexpensive and easily available online. Problem is that the pins are extremely small and a breakout board is required for prototyping. We have our extras that we had made in our Tindie shop, but feel free to make one yourself if you have the means. Designed in EasyEDA.
+
+
+*DISCLAIMER: Links from this site to Amazon are affiliate links and help us recover fees charged by Amazon for selling on their platform*
