@@ -17,6 +17,17 @@
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+
+
+![A pair of  concrete succulent planters](/img/concrete-planter-2up-main.jpg)
+## Concrete Succulent Planter 2-Pack
+<a class="button" target="_blank" href="https://amzn.to/2TOIPU9">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
+
+People loved the planter from our popular Hactus so much, we decided to sell them separately in a 2-Pack. As with everything we make, our concrete planters are handmade in the Bay Area of California. Show some love to your tiny babies with our concrete planters!
+
+
+
+
 ![Hactus with box](/img/hactus-with-box.jpg)
 ## Hactus v1.0
 <a class="button" target="_blank" href="https://amzn.to/36DCyjR">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
