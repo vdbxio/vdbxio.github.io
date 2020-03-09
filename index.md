@@ -30,7 +30,7 @@ People loved the planter from our popular Hactus so much, we decided to sell the
 
 ![Hactus with box](/img/hactus-with-box.jpg)
 ## Hactus v1.0
-<a class="button" target="_blank" href="https://amzn.to/36DCyjR">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
+<a class="button" target="_blank" href="https://amzn.to/3cO4u7I">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
 
 The Hactus is a unique take on the boring prototyping boards commonly found in the DIY electronics scene. The Hactus embodies the visual of a succulent cactus by way of it's interlocking green perfboards that fit snugly inside the included concrete flower pot. Each of the two boards has 783 ENIG Gold Plated solder points providing you with endless possibilities for prototyping your inventions. Or just keep it as is and hold some pens or pencils in its 4 sections.
 
