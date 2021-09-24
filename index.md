@@ -2,7 +2,7 @@
 
 
 
-![A pair of  concrete succulent planters](/img/concrete-planter-2up-main.jpg)
+![A pair of  concrete succulent planters](/img/resize/concrete-planter-2up-main.jpg)
 ## Concrete Succulent Planter 2-Pack
 <a class="button" target="_blank" href="https://amzn.to/2TOIPU9">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
 
@@ -11,7 +11,7 @@ People loved the planter from our popular Hactus so much, we decided to sell the
 
 
 
-![Hactus with box](/img/hactus-with-box.jpg)
+![Hactus with box](/img/resize/hactus-with-box.jpg)
 ## Hactus v1.0
 <a class="button" target="_blank" href="https://amzn.to/3cO4u7I">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
 
@@ -54,7 +54,7 @@ Picture is of an early prototype, final product may look slightly different - Fo
 
 
 
-![Ultra Low-Profile USB 2.0 Header For Motherboards](/img/P1030309.jpg)
+![Ultra Low-Profile USB 2.0 Header For Motherboards](/img/resize/P1030309.jpg)
 ## Ultra Low-Profile USB 2.0 Header
 <a class="button" target="_blank" href="https://amzn.to/2LSu0Kv">BUY ON AMAZON</a><a href="https://easyeda.com/clomads/usb-header-for-motherboard" class="button" target="_blank">SOURCE</a>
 
@@ -64,14 +64,14 @@ It can also be a powerful tool for computer techs who can keep two USB tools tog
 
 My personal use case is in a custom built super slim NAS enclosure that runs UnRAID. My OS is on a tiny flash drive and the second slot holds a 2.4ghz receiver for a thumb keyboard/trackpad thing. All current offerings I could find were too tall for my needs or were a wired assembly, this is much cleaner.
 
-![Business Card Holder](/img/P1010574-2.jpg)
+![Business Card Holder](/img/resize/P1010574-2.jpg)
 ## USB-BD v1.0
 <a class="button" target="_blank" href="https://amzn.to/2jew8zY">BUY ON AMAZON</a><a href="https://github.com/vdbxio/USB-BD" class="button" target="_blank">SOURCE</a>
 
 The USB-BD by Voidbox Industries is a unique power solution for breadboard prototyping & other electronics projects. It provides 5V power from Micro-USB, features a switch for easy disconnections, and includes a JST 2.0 header & lead for the data terminals. Additionally there are two solder jumpers: one for bypassing the switch and one to ground the ID pin for OTG connections. The Micro-USB port is soldered by us in California from imported components using a lead-free process. Included in the pack is 5x USB-BD PCBs with Micro USB, 5x of 5.8mm Micro Latching Switch, 5x JST 2.0 Header, 5x JST 2.0 Lead, and 10x 1x2 pin headers for you to solder yourself.
 
 
-![Business Card Holder](/img/2020-card-holder-main3.jpg)
+![Business Card Holder](/img/resize/2020-card-holder-main3.jpg)
 ## Concrete Business Card Holder by @clomads
 <a class="button" target="_blank" href="http://amzn.to/2F9KP4S">BUY ON AMAZON</a><a href="https://github.com/vdbxio/clomads-card-holder/" class="button" target="_blank">SOURCE</a>
 
