@@ -23,9 +23,9 @@ Due to the handmade nature of this item, variations between items are to be expe
 ![Aura v1.0 Prototype 001 and iPhone X](/img/aura-v1-1500-50.jpg)
 ## Aura v1.0 - Concrete Wireless Charging
 ### Crowdfunding campaign coming soon
-The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neoprene. It has the USB port and status LED embeded into the concrete base during the molding process. We have a working prototype proof of concept and are finalizing some sourcing of materials and finalizing our parts list. Due major changes within Voidbox throughout 2019, the Aura Qi charger has been indefinitely placed on hold as we release other products and get some existing products back into production. We've decided to make some changes and upgrades to the Aura before going into crowdfunding on Indiegogo. We hope to restart R&D by Spring of 2020.
+The Aura Qi is a 10w wireless charging pad made from concrete, wood, and neoprene. It has the USB port and status LED embeded into the concrete base during the molding process. It was created as a prototype intended for production in 2018 but extenuating circumstances didn't allow it to continue development.
 
-Sign up to get notified when we're ready to start our crowdfunding campaign and follow us on instagram for updates as we get back into R&D mode.
+Sign up to get notified if we ever are able to refocus out efforts on this project.
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -49,8 +49,6 @@ Sign up to get notified when we're ready to start our crowdfunding campaign and 
 
 <br><br>
 
-Picture is of an early prototype, final product may look slightly different - For example: final product is expected to have a status LED in the front recess.
-
 
 
 
@@ -58,7 +56,7 @@ Picture is of an early prototype, final product may look slightly different - Fo
 ## Ultra Low-Profile USB 2.0 Header
 <a class="button" target="_blank" href="https://amzn.to/2LSu0Kv">BUY ON AMAZON</a><a href="https://easyeda.com/clomads/usb-header-for-motherboard" class="button" target="_blank">SOURCE</a>
 
-A USB header for PC motherboards designed to be as minimal as possible. It may interfere with components on some motherboards. Its intended use is for keeping small flash-drives, wireless controllers, or USB license keys inside a computer enclosure.
+A USB 2.0 header for PC motherboards designed to be as minimal as possible. It may interfere with components on some motherboards. Its intended use is for keeping small flash-drives, wireless controllers, or USB license keys inside a computer enclosure.
 
 It can also be a powerful tool for computer techs who can keep two USB tools together such as a diagnostics OS on flash drive alongside a wireless keyboard/mouse receiver.
 
@@ -75,7 +73,7 @@ The USB-BD by Voidbox Industries is a unique power solution for breadboard proto
 ## Concrete Business Card Holder by @clomads
 <a class="button" target="_blank" href="http://amzn.to/2F9KP4S">BUY ON AMAZON</a><a href="https://github.com/vdbxio/clomads-card-holder/" class="button" target="_blank">SOURCE</a>
 
-Our fearless leader, Chloe Madison has designed a beautiful concrete business card holder with a powerful neodymium magnet and steel ball. The ball and magnet keep several business cards in place, yet allow for cards to be pulled out one at a time. The source material is the original 3D Model of the design which was 3D Printed and molded for concrete forming.
+Our fearless leader, Chloe 'Six' Ryan has designed a beautiful concrete business card holder with a powerful neodymium magnet and steel ball. The ball and magnet keep several business cards in place, yet allow for cards to be pulled out one at a time. The source material is the original 3D Model of the design which was 3D Printed and molded for concrete forming.
 
 
 ![CSR8635 Breakout](/img/resize/P1010241-3.jpg)
