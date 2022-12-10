@@ -1,11 +1,21 @@
+# Relaunching
 
-# Current Products
+Voidbox Industries has been dormant since March 2020, and is working to relaunch in 2023 better than ever, with a focus on off-grid automation and living using Home Assistant. Keep an eye on our founder @clomads via the following links for more information on her bus and future endeavors.
+
+
+
+
+Unfortunately, the concrete products will no longer be available until we find a proper production space for it, hopefully in the next couple years. 
+
+
+
+# Archive of Products
 
 
 
 ![A pair of  concrete succulent planters](/img/resize/concrete-planter-2up-main.jpg)
 ## Concrete Succulent Planter 2-Pack
-<a class="button" target="_blank" href="https://amzn.to/2TOIPU9">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
+<a class="button" target="_blank" href="https://amzn.to/2TOIPU9" style="pointer-events: none;opacity:50%;">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
 
 People loved the planter from our popular Hactus so much, we decided to sell them separately in a 2-Pack. As with everything we make, our concrete planters are handmade in the Bay Area of California. Show some love to your tiny babies with our concrete planters!
 
