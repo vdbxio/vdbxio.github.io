@@ -1,6 +1,6 @@
 # Relaunching
 
-Voidbox Industries has been dormant since March 2020, and is working to relaunch in 2023 better than ever, with a focus on off-grid automation and living using Home Assistant. Keep an eye on our founder @clomads via the following links for more information on her bus and future endeavors.
+Voidbox Industries has been dormant since March 2020 and is working to relaunch in 2023 better than ever, with a focus on off-grid automation and living using Home Assistant. Keep an eye on our founder @clomads via the following links for more information on her bus and future endeavors.
 <base target="_blank">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqT1BzltoQfUR3wCvFmss4w?logo=youtube&style=flat-square)](https://www.youtube.com/clomads) [![Mastodon Follow](https://img.shields.io/mastodon/follow/109247841490915473?style=flat-square)](https://mastodon.social/@clomads) [![GitHub last commit](https://img.shields.io/github/last-commit/vdbxio/vdbxio.github.io?style=flat-square)](https://github.com/vdbxio/vdbxio.github.io)
