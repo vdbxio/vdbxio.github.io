@@ -15,7 +15,7 @@ Unfortunately, the concrete products will no longer be available until we find a
 
 ![A pair of  concrete succulent planters](/img/resize/concrete-planter-2up-main.jpg)
 ## Concrete Succulent Planter 2-Pack
-<a class="button" target="_blank" href="https://amzn.to/2TOIPU9" style="pointer-events: none;opacity:50%;">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
+<a class="button" target="_blank" href="https://amzn.to/2TOIPU9" style="pointer-events: none;opacity:30%;">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
 
 People loved the planter from our popular Hactus so much, we decided to sell them separately in a 2-Pack. As with everything we make, our concrete planters are handmade in the Bay Area of California. Show some love to your tiny babies with our concrete planters!
 
@@ -24,7 +24,7 @@ People loved the planter from our popular Hactus so much, we decided to sell the
 
 ![Hactus with box](/img/resize/hactus-with-box.jpg)
 ## Hactus v1.0
-<a class="button" target="_blank" href="https://amzn.to/3cO4u7I">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
+<a class="button" target="_blank" href="https://amzn.to/3cO4u7I" style="pointer-events: none;opacity:30%;">BUY ON AMAZON</a><a href="https://github.com/vdbxio/Hactus" class="button" target="_blank">SOURCE</a>
 
 The Hactus is a unique take on the boring prototyping boards commonly found in the DIY electronics scene. The Hactus embodies the visual of a succulent cactus by way of it's interlocking green perfboards that fit snugly inside the included concrete flower pot. Each of the two boards has 783 ENIG Gold Plated solder points providing you with endless possibilities for prototyping your inventions. Or just keep it as is and hold some pens or pencils in its 4 sections.
 
@@ -65,7 +65,7 @@ Sign up to get notified if we ever are able to refocus out efforts on this proje
 
 ![Ultra Low-Profile USB 2.0 Header For Motherboards](/img/resize/P1030309.jpg)
 ## Ultra Low-Profile USB 2.0 Header
-<a class="button" target="_blank" href="https://amzn.to/2LSu0Kv">BUY ON AMAZON</a><a href="https://easyeda.com/clomads/usb-header-for-motherboard" class="button" target="_blank">SOURCE</a>
+<a class="button" target="_blank" href="https://amzn.to/2LSu0Kv" style="pointer-events: none;opacity:30%;">BUY ON AMAZON</a><a href="https://easyeda.com/clomads/usb-header-for-motherboard" class="button" target="_blank">SOURCE</a>
 
 A USB 2.0 header for PC motherboards designed to be as minimal as possible. It may interfere with components on some motherboards. Its intended use is for keeping small flash-drives, wireless controllers, or USB license keys inside a computer enclosure.
 
@@ -75,21 +75,21 @@ My personal use case is in a custom built super slim NAS enclosure that runs UnR
 
 ![Business Card Holder](/img/resize/P1010574-2.jpg)
 ## USB-BD v1.0
-<a class="button" target="_blank" href="https://amzn.to/2jew8zY">BUY ON AMAZON</a><a href="https://github.com/vdbxio/USB-BD" class="button" target="_blank">SOURCE</a>
+<a class="button" target="_blank" href="https://amzn.to/2jew8zY" style="pointer-events: none;opacity:30%;">BUY ON AMAZON</a><a href="https://github.com/vdbxio/USB-BD" class="button" target="_blank">SOURCE</a>
 
 The USB-BD by Voidbox Industries is a unique power solution for breadboard prototyping & other electronics projects. It provides 5V power from Micro-USB, features a switch for easy disconnections, and includes a JST 2.0 header & lead for the data terminals. Additionally there are two solder jumpers: one for bypassing the switch and one to ground the ID pin for OTG connections. The Micro-USB port is soldered by us in California from imported components using a lead-free process. Included in the pack is 5x USB-BD PCBs with Micro USB, 5x of 5.8mm Micro Latching Switch, 5x JST 2.0 Header, 5x JST 2.0 Lead, and 10x 1x2 pin headers for you to solder yourself.
 
 
 ![Business Card Holder](/img/resize/2020-card-holder-main3.jpg)
 ## Concrete Business Card Holder by @clomads
-<a class="button" target="_blank" href="http://amzn.to/2F9KP4S">BUY ON AMAZON</a><a href="https://github.com/vdbxio/clomads-card-holder/" class="button" target="_blank">SOURCE</a>
+<a class="button" target="_blank" href="http://amzn.to/2F9KP4S" style="pointer-events: none;opacity:30%;">BUY ON AMAZON</a><a href="https://github.com/vdbxio/clomads-card-holder/" class="button" target="_blank">SOURCE</a>
 
 Our fearless leader, Chloe 'Six' Ryan has designed a beautiful concrete business card holder with a powerful neodymium magnet and steel ball. The ball and magnet keep several business cards in place, yet allow for cards to be pulled out one at a time. The source material is the original 3D Model of the design which was 3D Printed and molded for concrete forming.
 
 
 ![CSR8635 Breakout](/img/resize/P1010241-3.jpg)
 ## CSR8635 Bluetooth Audio Module Breakout
-<a class="button" target="_blank" href="https://www.tindie.com/products/11431/">BUY ON TINDIE</a><a class="button" target="_blank" href="https://easyeda.com/clomads/CSR8635_Breakout-72f90a02e918496186b20209678dd9dc">SOURCE</a>
+<a class="button" target="_blank" href="https://www.tindie.com/products/11431/" style="pointer-events: none;opacity:30%;">BUY ON TINDIE</a><a class="button" target="_blank" href="https://easyeda.com/clomads/CSR8635_Breakout-72f90a02e918496186b20209678dd9dc">SOURCE</a>
 
 A future product of ours is a Bluetooth headset and the CSR8635 modules are inexpensive and easily available online. Problem is that the pins are extremely small and a breakout board is required for prototyping. We have our extras that we had made in our Tindie shop, but feel free to make one yourself if you have the means. Designed in EasyEDA.
 
